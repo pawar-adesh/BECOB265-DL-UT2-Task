@@ -1,5 +1,5 @@
 # BECOB265-DL-UT2-Task
-Adesh Pawar
+Adesh Pawar <br>
 Problem Statement: 
 Perform classification using deep learning convolution network. Compare and comment on the result by using different activation function and optimizers.
 
